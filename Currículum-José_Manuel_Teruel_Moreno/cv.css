@@ -1,0 +1,18 @@
+h1{
+	
+	color:#07368C;
+	
+}
+
+.pfp{
+	width:20%;
+}
+
+fieldset{
+	
+	border:1px solid black;
+	border-radius:10px;
+	
+	display:flex;
+	
+}
